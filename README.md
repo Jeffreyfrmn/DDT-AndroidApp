@@ -2,7 +2,7 @@
 
 This README documents the steps that are necessary to get the application up and running for software development.
 
-Package: ***com.deltadevteam.app***
+Package: ***com.deltadevteam.app.android***
 
 ### What is this repository for?
 > This repository is for development, debugging, and validation of Delta Development Team's INC. general purpose android application.  This software is used to view data from Delta Development Team, INC. Bluetooth enabled devices, running the 'BlueST Protocol'.
